@@ -23,7 +23,7 @@ More than 70% of Americans don't have documented end-of-life plans, leaving fami
 
 ### Humanizing a Difficult Process
 
-"End-of-life planning shouldn't be scary or complicated," said [FOUNDER/Kyle Avey], [COO] of Living Legacy. "We've created a service that treats this important life stage with the dignity and care it deserves. Our goal is to help people document their wishes clearly and give families the gift of certainty during uncertain times."
+"End-of-life planning shouldn't be scary or complicated," said [FOUNDER NAME], [TITLE] of Living Legacy. "We've created a service that treats this important life stage with the dignity and care it deserves. Our goal is to help people document their wishes clearly and give families the gift of certainty during uncertain times."
 
 ### Key Features
 
@@ -65,8 +65,8 @@ For more information, visit [council4better.life](https://council4better.life)
 
 ### Media Contact
 
-**Name**: [Cody Deacker]  
-**Title**: [Media Publications  ]  
+**Name**: [CONTACT NAME]  
+**Title**: [CONTACT TITLE]  
 **Email**: press@council4better.life  
 **Phone**: 1-800-LIVING-LEGACY  
 **Website**: [council4better.life](https://council4better.life)
